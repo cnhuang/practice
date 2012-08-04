@@ -1,4 +1,4 @@
-package edward.practice.testng.listener;
+package testng.listener;
 
 import java.util.Arrays;
 

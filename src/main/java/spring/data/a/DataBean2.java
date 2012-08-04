@@ -1,4 +1,4 @@
-package edward.practice.spring.data.a;
+package spring.data.a;
 
 import org.springframework.stereotype.Component;
 

@@ -1,11 +1,12 @@
-package edward.practice.spring;
+package spring;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.FileSystemXmlApplicationContext;
 
-import edward.practice.spring.data.DataBean1;
-import edward.practice.spring.data.a.DataBean2;
+import spring.data.DataBean1;
+import spring.data.a.DataBean2;
+
 
 public class ExampleBean
 {

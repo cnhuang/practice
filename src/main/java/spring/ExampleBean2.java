@@ -1,4 +1,4 @@
-package edward.practice.spring;
+package spring;
 
 public class ExampleBean2
 {
