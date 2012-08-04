@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.AfterTest;
 
 @Test
-public class ListenerTestCase
+public class ListenerTestCase2
 {
 	@BeforeSuite
 	public void BeforeSuite()
