@@ -20,7 +20,7 @@ public class InvokeMethodListener implements IInvokedMethodListener
 			result.setStatus(ITestResult.SUCCESS);
 			for(String s : result.getAttributeNames())
 				System.out.print(s+",");
-			System.out.println();
+			System.out.println(3/0);
 		}
 
 	}

@@ -1,12 +1,12 @@
 <suite name="listener-test suite">
 
 	<listeners>
-		<listener class-name="edward.practice.testng.listener.InvokeMethodListener" />
+		<listener class-name="testng.listener.InvokeMethodListener" />
 	</listeners>
 
 	<test name="listener-test">
 		<packages>
-			<package name="edward.practice.testng.listener" />
+			<package name="testng.listener" />
 		</packages>
 	</test>
 
